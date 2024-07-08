@@ -1,5 +1,7 @@
 # Simplify Spelling with an Alphanumeric Keyboard Layout
 
-Have you ever found yourself on a phone call, struggling to spell out your last name or a booking code? If you're like me and don't know the alphanumeric alphabet by heart, you probably end up searching for it online. I used to find these charts frustrating. They often come in sheets or columns, and I would struggle to locate the right letter. By the time I found it, I had already forgotten where I was in the word! This frustration led me to create a keyboard layout with the alphanumeric alphabet overlay. With this layout, my eyes glide to the right letter immediately, making spelling out words incredibly efficient and fast. I hope it does the same for you!
+I've made this picture to make spelling out booking codes and names easy. I figured I'd put it out there for everyone. Hopefully this'll make your life a bit easier too!
+
+It's weird, but all the other pictures I found online just had letters in columns or rows. Made it a real pain to find the right letter quickly. Drove me nuts!
 
 ![Qwerty Phonetic Alphabet](https://github.com/matis-io/Alphanumeric-Keyboard-Layout/assets/53236299/bd594dac-3001-4a9a-89ee-85896547e0ca)
